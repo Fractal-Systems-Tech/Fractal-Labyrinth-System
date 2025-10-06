@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Fractal-Systems-Tech/Fractal-Labyrinth-System/main/Labyrinth_Circuit_Sharpened.png" alt="Fractal Labyrinth Banner" width="600"/>
+</p>
+
 # Fractal Labyrinth System™
 
 **Tag-Weighted Self-Mirroring Logic Architecture™ (TSMLA™)**
