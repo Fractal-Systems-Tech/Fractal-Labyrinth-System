@@ -2,6 +2,8 @@
 
 **Tag-Weighted Self-Mirroring Logic Architecture™ (TSMLA™)**
 
+*A product of Fractal Labyrinth Systems LLC*
+
 *Public Architecture Overview*
 
 ---
