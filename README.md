@@ -49,7 +49,7 @@ Full 8-section architecture documentation covering:
 - Development roadmap (Phases 1–4 + Mirrorfield™ vision)
 - Market applications and business model
 
-**Access:** Available in repository under NDA
+**Access:** Available in the repository under NDA
 
 ### White Paper (In Progress)
 
@@ -195,7 +195,7 @@ Albuquerque, NM 87110
 - **Media & Speaking:** Interviews, briefings, conference presentations
 - **Investment & Diligence:** NDA-gated technical documentation access
 
-All commercial inquiries require executed NDA prior to technical documentation or sandbox access.
+All commercial inquiries require an executed NDA prior to technical documentation or sandbox access.
 
 ---
 
