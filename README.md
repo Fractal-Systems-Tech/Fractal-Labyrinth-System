@@ -1,5 +1,12 @@
+# The Contradiction Trap: How TSMLA™ Resolves Entropy Through Disambiguation
+
+<p align="center">
+  <img src="./Labyrinth_Circuit_Sharpened.png" alt="Fractal Labyrinth System — circuit image" width="820">
+</p>
+
 ## White Paper
-**The Contradiction Trap: How TSMLA™ Resolves Entropy Through Disambiguation**:`FV1.2a - TSMLA White Paper - Clean Version.pdf` (print-ready)
+...
+
 
 **Publisher:** Fractal Labyrinth Systems LLC  
 **Prepared by:** Califa Anu Bey, Founder & Chief Architect; Principal Inventor  
