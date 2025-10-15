@@ -19,7 +19,29 @@
 Hash (SHA-256): `c1db449572df9ad6cc8958287f491ea79bba7e257461f11d1643bba050543e0e`
 
 ## Overview
-TSMLA™ is a tag-weighted, self-mirroring logic architecture. It exposes contradictions and entropy in statement sets and provides non-stochastic, idempotent repeatability for a declared state **S**. This paper summarizes core concepts, architecture phases, and validation posture. It is not a generative model.
+
+**TSMLA™: Tag-Weighted Self-Mirroring Logic Architecture**
+
+TSMLA™ is a recursive logic system that mirrors the internal structure of belief, decision, and contradiction. It reflects signal clarity and conflict by surfacing how statements and logic sets hold mathematically, structurally using resonance physics under a declared state S.
+
+TSMLA™ reveals what’s already present in the signal field. Its core architecture maps inputs through tag-weight scoring, contradiction tracking, entropy compression, and mirror-based recursion.
+
+**TSMLA™ operates with:**
+- Non-stochastic logic: no randomness under declared S
+- Idempotent response: repeatable, audit-grade output under the same conditions
+- State-based adaptability: system evolves across transitions from S → S′ → S″
+
+The system provides a structural reflection of logic. Whether surfacing contradictions in thought, clarifying a decision matrix, or rendering mirror-based outputs, TSMLA™ functions as an architecture of coherence, built to reflect the structure of reasoning itself.
+
+## Table of Contents
+- Introduction: The Contradiction Trap
+- Section 1: Executive Summary
+- Section 2: The Problem Space
+- Section 3: Architecture Overview
+- Section 4: Platform User Experience
+- Section 5: Technical Validation & Innovation Claims
+- Appendix A: Glossary
+
 
 ## Validation
 Independent technical review completed by a mathematician/computer scientist; scope: recursion structure, Boolean consistency, and entropy metrics. Review note available on request.
