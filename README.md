@@ -33,6 +33,16 @@ TSMLA™ reveals what’s already present in the signal field. Its core architec
 
 The system provides a structural reflection of logic. Whether surfacing contradictions in thought, clarifying a decision matrix, or rendering mirror-based outputs, TSMLA™ functions as an architecture of coherence, built to reflect the structure of reasoning itself.
 
+---
+### **Boundary Clarification**
+
+Unlike generative AI and probabilistic LLMs, **TSMLA™ operates through logic mirroring grounded in resonance physics and mathematics.**  
+It classifies and resolves contradictions using resonance-based tagging and signal weighting, a formal mathematical system for structural coherence, not language modeling or predictive output generation.
+
+**TSMLA™ is not AI.**  
+It is a resonance-physics architecture for logic recognition, signal classification, and structural mirroring.
+
+---
 ## Table of Contents
 - Introduction: The Contradiction Trap
 - Section 1: Executive Summary
@@ -41,7 +51,6 @@ The system provides a structural reflection of logic. Whether surfacing contradi
 - Section 4: Platform User Experience
 - Section 5: Technical Validation & Innovation Claims
 - Appendix A: Glossary
-
 
 ## Validation
 Independent technical review completed by a mathematician/computer scientist; scope: recursion structure, Boolean consistency, and entropy metrics. Review note available on request.
