@@ -4,7 +4,7 @@
   <img src="./Labyrinth_Circuit_Sharpened.png" alt="Fractal Labyrinth System — circuit image" width="820">
 </p>
 
-## White Paper
+## White Paper Overview
 ...
 
 
